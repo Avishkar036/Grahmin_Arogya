@@ -144,7 +144,7 @@ In rural areas, access to quality healthcare remains a significant challenge due
 1. Clone the repository
 
 bash
-git clone https://github.com/yourusername/healthcare-platform.git
+git clone https://github.com/Avishkar036/healthcare-platform.git
 
 
 2. Install dependencies
@@ -174,16 +174,8 @@ http://localhost:3000
 
 ## Contributing
 
-We welcome contributions to improve healthcare accessibility in rural areas. Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+We welcome contributions to improve healthcare accessibility in rural areas. Please read our contributing guidelines before you submit pull requests.
 
 ## Support
 
-For support, please email support@graminarogya.com or raise an issue in the repository.
-
----
-
-Made with ❤ for Rural Healthcare
+For any issues please contact:avishkar036@gmail.com
